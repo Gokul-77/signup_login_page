@@ -28,7 +28,9 @@ A Django project with basic user authentication including **Signup** and **Login
 
 ![Screenshot (92)](https://github.com/user-attachments/assets/32a21b31-a693-4e17-84df-620aa92aacd6)
 
+
 ![Screenshot (93)](https://github.com/user-attachments/assets/48f00b87-342d-4f5b-8ef3-b9946caca827)
+
 
 ![Screenshot (91)](https://github.com/user-attachments/assets/4fbb8da5-1779-4e21-af97-47d56de99947)
 
